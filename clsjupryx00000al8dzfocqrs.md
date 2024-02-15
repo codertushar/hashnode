@@ -1,8 +1,8 @@
 ---
-title: "Learn Flattening an Array in JS"
+title: "Learn Flattening an Array in JS with ChatGPT"
 datePublished: Tue Feb 13 2024 04:16:39 GMT+0000 (Coordinated Universal Time)
 cuid: clsjupryx00000al8dzfocqrs
-slug: learn-flattening-an-array-in-js
+slug: learn-flattening-an-array-in-js-with-chatgpt
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/av6VOttZMHs/upload/64cb8d2172a2be38479a238f3d92c98d.jpeg
 tags: javascript, flatten-array
 
