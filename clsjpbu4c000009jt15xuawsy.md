@@ -1,5 +1,5 @@
 ---
-title: "Learn Memoized functions in JS"
+title: "Learn Memoized functions in JS with ChatGPT"
 datePublished: Tue Feb 13 2024 01:45:51 GMT+0000 (Coordinated Universal Time)
 cuid: clsjpbu4c000009jt15xuawsy
 slug: learn-memoized-functions-in-js
