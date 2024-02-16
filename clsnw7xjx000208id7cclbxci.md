@@ -3,6 +3,7 @@ title: "Learn Flattening Object in JS with ChatGPT"
 datePublished: Fri Feb 16 2024 00:09:51 GMT+0000 (Coordinated Universal Time)
 cuid: clsnw7xjx000208id7cclbxci
 slug: learn-flattening-object-in-js-with-chatgpt
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/IDwxMtntqc0/upload/b412d5c19cf4f69ce0c3f1e5eb5f0da8.jpeg
 tags: javascript
 
 ---
