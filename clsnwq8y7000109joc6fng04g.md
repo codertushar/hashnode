@@ -3,6 +3,7 @@ title: "Learn Polyfill of JS Array Map with ChatGPT"
 datePublished: Fri Feb 16 2024 00:24:05 GMT+0000 (Coordinated Universal Time)
 cuid: clsnwq8y7000109joc6fng04g
 slug: learn-polyfill-of-js-array-map-with-chatgpt
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/AxT4iYcoI2M/upload/454c357c12736c0072ec9a583a5e3dec.jpeg
 tags: javascript, map, polyfills
 
 ---
