@@ -3,6 +3,7 @@ title: "Learn Pub-Sub with ChatGPT"
 datePublished: Thu Aug 22 2024 05:04:41 GMT+0000 (Coordinated Universal Time)
 cuid: cm04tj8go000e0alb5qjj6am8
 slug: learn-pub-sub-with-chatgpt
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/WYd_PkCa1BY/upload/e7fcd1e57949f5d4cf71ad8af9722510.jpeg
 
 ---
 
