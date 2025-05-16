@@ -50,6 +50,8 @@ With the requirements clarified, let’s proceed to the high-level design of the
 
 ## High-Level Architecture
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747368350056/e5f0049b-caee-4c75-96d0-fcf58e7926a6.png align="center")
+
 *High-level architecture of the Disqus-like commenting system (clients, services, and data stores).*
 
 At a high level, our commenting platform follows a **multi-tier architecture** with decoupled components for scalability and maintainability. The major pieces include:
@@ -146,6 +148,8 @@ For storing the comments and related data, we need a storage solution that can h
 We will discuss schema shortly (with an example diagram), but essentially a relational model fits well (Comments, Users, etc. with foreign keys). A sample **ER diagram** is shown below.
 
 *Entity-relationship (ER) diagram of the core data model for comments, users, threads, and votes.* Each **Comment** belongs to a **Thread** (content item) and is authored by a **User**. A comment may also reference a **parent comment** (if it’s a reply, `parent_id` points to another comment). **Votes** by users on comments are stored separately, linking a User and Comment (with a vote type), which allows tallying upvotes/downvotes and enforcing one vote per user.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747368293115/f5023a7a-ab3e-448a-a5d6-eaada4b3e3c0.png align="center")
 
 In terms of storage technology:
 
